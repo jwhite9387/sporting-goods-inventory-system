@@ -19,11 +19,14 @@ design principles across multiple programming languages.
 ---
 
 ## Project Structure
+
+<pre>
 sporting-goods-inventory-system/
 ├── python/
-│ ├── product.py
-│ └── store.py
+│   ├── product.py
+│   └── store.py
 ├── cpp/
-│ ├── Product.h
-│ ├── Product.cpp
-│ └── main.cpp
+│   ├── Product.h
+│   ├── Product.cpp
+│   └── main.cpp
+</pre>
